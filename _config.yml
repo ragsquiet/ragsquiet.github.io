@@ -11,7 +11,7 @@ description: Random musings about many things
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:  https://raw.githubusercontent.com/ragsquiet/ragsquiet.github.io/master/images/mylogo.jpg
 
-theme: architect
+theme: jekyll-theme-cayman
 
 #
 # Flags below are optional
